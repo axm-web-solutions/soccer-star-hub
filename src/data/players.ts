@@ -3,9 +3,9 @@ import { Player } from "@/types/player";
 export const initialPlayers: Player[] = [
   {
     id: "1",
-    name: "Carlos Vela",
+    name: "Emanuel Orjuela",
     position: "Delantero",
-    nationality: "🇲🇽 México",
+    nationality: "Peruano",
     age: 34,
     rating: 4,
     value: 8.5,
